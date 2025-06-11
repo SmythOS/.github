@@ -1,10 +1,11 @@
 # Welcome to SmythOS 👋
 
-SmythOS is the Operating System for Web 3. We're building collaborative tools for developers.
+SmythOS is the Operating System for Agentic AI.
 
 ## 🚀 Projects
-- [smyth-runtime](https://github.com/your-org/smyth-runtime)
-- [smyth-builder-ui](https://github.com/your-org/smyth-builder-ui)
+
+- [Smyth Runtime Environment](https://github.com/SmythOS/sre)
+
 
 ## 🛠️ Get Involved
-Contact us at [hello@smyth.ai](mailto:hello@smyth.ai) or visit [smyth.ai](https://smyth.ai)
+Contact us at [hello@smyth.ai](mailto:hello@smythos.com), join our [Discord](https://discord.gg/smythos) visit [SmythOS website](https://smythos.com)
