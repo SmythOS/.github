@@ -8,4 +8,4 @@ SmythOS is the Operating System for Agentic AI.
 
 
 ## 🛠️ Get Involved
-Contact us at [hello@smyth.ai](mailto:hello@smythos.com), join our [Discord](https://discord.gg/smythos) visit [SmythOS website](https://smythos.com)
+Contact us at [hello@smythos.com](mailto:hello@smythos.com), join our [Discord](https://discord.gg/smythos) visit [SmythOS website](https://smythos.com)
