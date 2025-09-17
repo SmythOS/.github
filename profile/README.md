@@ -4,7 +4,7 @@ SmythOS is the Operating System for Agentic AI.
 
 ## 🚀 Projects
 
-- [Smyth Runtime Environment](https://github.com/SmythOS/sre)
+- [Smyth Runtime Environment](https://github.com/SmythOS/sre) : The Operating System for AI Agents
 
 
 ## 🛠️ Get Involved
