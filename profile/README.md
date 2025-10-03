@@ -4,7 +4,13 @@ SmythOS is the Operating System for Agentic AI.
 
 ## 🚀 Projects
 
-- [Smyth Runtime Environment](https://github.com/SmythOS/sre) : The Operating System for AI Agents
+- [SmythOS Runtime Environment](https://github.com/SmythOS/sre) : SDK, CLI & Runtime for Building & Running Agents
+- [SmythOS Studio](https://github.com/SmythOS/smythos-studio) : IDE for Building & Running Agents Visually
+
+## 🚀 Tools & Demos
+
+- [Docker Orchestration MCP Server](https://github.com/SmythOS/smyth-docker-mcp) : MCP Server Spawning Linux Sandboxes, built in SmythOS.
+- [Smyth Forged](https://forged.smythos.com/) : Explore Community Projects, built with SmythOS
 
 
 ## 🛠️ Get Involved
